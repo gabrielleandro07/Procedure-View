@@ -1,0 +1,3 @@
+/* E */
+
+select * from lista;
